@@ -25,7 +25,7 @@ echo " CODE PULLED!!"
 
 echo " COPYING FILES TO DEPLOY DIR...."
 
-cp ~/devops-scripts/*.sh $DEPLY_DIR/
+cp ~/devops-scripts/*.sh $DEPLOY_DIR/
 echo "  FILES COPIED..."
 
 
